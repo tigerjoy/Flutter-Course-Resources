@@ -42,7 +42,7 @@
 
 ## Section 6: MiCard - How to Build Beautiful UIs with Flutter Widgets
 
-* [MiCard Stub Project](https://github.com/londonappbrewery/mi_card_flutter)
+* [MiCard Stub Project](https://github.com/tigerjoy/mi_card_flutter)
 * [Widgets Catalogue](https://flutter.dev/docs/development/ui/widgets)
 * [Container Documentation](https://docs.flutter.io/flutter/widgets/Container-class.html)
 * [Column Documentation](https://docs.flutter.io/flutter/widgets/Column-class.html)
@@ -61,7 +61,7 @@
 
 ## Section 7: Dicee - Building Apps with State
 
-* [Dicee Stub Project](https://github.com/londonappbrewery/dicee-flutter)
+* [Dicee Stub Project](https://github.com/tigerjoy/dicee-flutter)
 * [Expanded Class](https://docs.flutter.io/flutter/widgets/Expanded-class.html)
 * [Image Widget Documentation](https://docs.flutter.io/flutter/widgets/Image-class.html)
 * [FlatButton Documentation](https://docs.flutter.io/flutter/material/FlatButton-class.html)
@@ -72,11 +72,11 @@
 
 ## Section 8: Boss Level Challenge 1 - Magic 8 Ball
 
-* [Magic 8 Ball Stub](https://github.com/londonappbrewery/magic-8-ball-flutter)
+* [Magic 8 Ball Stub](https://github.com/tigerjoy/magic-8-ball-flutter)
 
 ## Section 9: Xylophone - Using Flutter and Dart Packages to Speed Up Development
 
-* [XyloPhone Stub Project](https://github.com/londonappbrewery/xylophone-flutter)
+* [XyloPhone Stub Project](https://github.com/tigerjoy/xylophone-flutter)
 * [Flutter Packages](https://pub.dartlang.org/flutter)
 * [Guide to Using Flutter Packages](https://flutter.dev/docs/development/packages-and-plugins/using-packages)
 * [Luan Nico's Audioplayers Package](https://pub.dartlang.org/packages/audioplayers)
@@ -86,7 +86,7 @@
 
 ## Section 10: Quizzler - Modularising & Organising Flutter Code
 
-* [Quizzler Stub Project](https://github.com/londonappbrewery/quizzler-flutter)
+* [Quizzler Stub Project](https://github.com/tigerjoy/quizzler-flutter)
 * [List Gist for DartPad List Practice](https://gist.github.com/angelabauer/f9db1b64cf51623d42b1ac1722bd016c)
 * [Dart List Language Tour](https://www.dartlang.org/guides/libraries/library-tour#collections)
 * [RFlutter Alert Package](https://pub.dartlang.org/packages/rflutter_alert)
@@ -96,12 +96,12 @@
 
 ## Section 11: Boss Level Challenge 2 - Destini
 
-* [Destini Stub](https://github.com/londonappbrewery/destini-challenge-starting)
+* [Destini Stub](https://github.com/tigerjoy/destini-challenge-starting)
 * [Destini Solution & Completed Project](https://github.com/londonappbrewery/destini-challenge-completed/)
 
 ## Section 12: BMI Calculator - Building Flutter UIs for Intermediates
 
-* [BMI Stub Project](https://github.com/londonappbrewery/bmi-calculator-flutter)
+* [BMI Stub Project](https://github.com/tigerjoy/bmi-calculator-flutter)
 * [Dribbble: Find Designers and Design inspiration](https://dribbble.com/)
 * [Ruben Vaalt's beautiful BMI Calculator Design](https://dribbble.com/shots/4585382-Simple-BMI-Calculator)
 * [Using Themes](https://flutter.dev/docs/cookbook/design/themes)
@@ -127,7 +127,7 @@
 
 ## Section 13: Clima - Powering Your Flutter App with Live Weather Web Data
  
-* [Clima Stub Project](https://github.com/londonappbrewery/Clima-Flutter)
+* [Clima Stub Project](https://github.com/tigerjoy/Clima-Flutter)
 * [Get the Location using the Geolocator Package](https://pub.dartlang.org/packages/geolocator)
 * [Android X Compatilibity](https://flutter.dev/docs/development/packages-and-plugins/androidx-compatibility)
 * [Starter Code Snippet for Async Await Demo](https://gist.github.com/angelabauer/c19c42b7795a185d2113f3b47263d2c0)
@@ -151,7 +151,7 @@
 
 ## Section 14: Boss Level Challenge 3 - Bitcoin Ticker (a.k.a. Am I Rich?)
 
-* [Bitcoin Ticker Stub Project](https://github.com/londonappbrewery/bitcoin-ticker-flutter)
+* [Bitcoin Ticker Stub Project](https://github.com/tigerjoy/bitcoin-ticker-flutter)
 * [Flutter DropdownButton](https://docs.flutter.io/flutter/material/DropdownButton-class.html)
 * [Dropdown Menu Design](https://material.io/design/components/menus.html#dropdown-menu)
 * [99 Bottles of Beer Programming Language Collection](http://www.99-bottles-of-beer.net/)
@@ -167,7 +167,7 @@
 
 ## Section 15: Flash Chat - Flutter x Firebase Cloud Firestore
 
-* [Flash Chat Stub Project](https://github.com/londonappbrewery/flash-chat-flutter)
+* [Flash Chat Stub Project](https://github.com/tigerjoy/flash-chat-flutter)
 * [Dart Language Keywords](https://www.dartlang.org/guides/language/language-tour#keywords)
 * [Hero Animations](https://flutter.dev/docs/development/ui/animations/hero-animations)
 * [Curves Class Documentation](https://docs.flutter.io/flutter/animation/Curves-class.html)
